@@ -13,7 +13,7 @@ Based on [Parcouss qTip2 extension](http://www.yiiframework.com/extension/qtip2)
 Global component configuration example:
 
 ```php
-`components' => [
+'components' => [
 	'qTip2' => [
 	    'class' => 'ext.qTip2.qTip2',
 	    'options' => [
