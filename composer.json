@@ -1,0 +1,18 @@
+{
+    "name": "lagman/yii-qtip2",
+    "description": "qTip2 component for Yii",
+    "keywords": ["yii", "framework", "qtip2", "widget", "extension"],
+    "license": "MIT",
+    "version": "2.1.1",
+    "authors": [
+        {
+            "name": "Alexey Samoylov",
+            "email": "alexey.samoylov@gmail.com",
+            "homepage": "http://lagman.su"
+        }
+    ],
+    "type": "yii-extension",
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
